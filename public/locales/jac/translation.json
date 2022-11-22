@@ -1,0 +1,103 @@
+{
+    "about": "Yib'anhiloj hun sajach ti'",
+    "gameName": "No Wordle - {{language}}",
+    "enterKey": "Atoj",
+    "deleteKey": "Sultuj",
+    "notEnoughLetters": "Mach k'uxanoj tz'ib'",
+    "wordNotFound": "Mach hun tzoti' ti'",
+    "solution": "Ha' hun tzoti' ti' la: {{solution}}",
+    "gameCopied": "Xax hawaq' copiar hun sajach ti'",
+    "howToPlay": "Tzet chuh kosajchi",
+    "instructions": "Chuh hawilwen hawalniloj hun tzoti' ti' yinh {{tries}} el. Lahwi hawilwenoj hun-hun el, chhelmojtoj yelaw hej tz'ib', yuhnhe skolwahoj yalni tawet ta ha' hawekoj mato machoj.",
+    "pickYourLanguage": "Saya tzet ab'xub'alil chawoche",
+    "correctSpotInstructions": "Hune' B' ti' ayiktoj sxol tzoti'. K'ul hawekoj.",
+    "wrongSpotInstructions": "Ayiktoj N sxol hun tzoti' ti' tonhe machtaj b'et ti' ch'oktoj.",
+    "notInWordInstructions": "Machiktoj O sxol hun tzoti' ti'.",
+    "guessDistribution": "B'ay tet k'ul xuh hapajtzeni",
+    "statistics": "Hantajxa mach chsajchi",
+    "totalTries": "Hayelxa hel chsajchi anmah",
+    "successRate": "Hayelxa el ch'iq'wahi",
+    "currentStreak": "Tzet hawekoj ti'nanh",
+    "bestStreak": "B'ay tet sajachil q'a' k'ul x'elikoj",
+    "newWordCountdown": "Hunujxa ak' tzoti'",
+    "share": "Chinpujb'a han",
+    "winMessages": [
+        "¡Kaw k'ul xuh hasajchi!",
+        "Jalni han ta mach chub' hawuh",
+        "¡K'ul xawute!"
+    ],
+    "firstExampleWord": [{
+            "letter": "B'",
+            "highlight": true
+        },
+        {
+            "letter": "A",
+            "highlight": false
+        },
+        {
+            "letter": "L",
+            "highlight": false
+        },
+        {
+            "letter": "A",
+            "highlight": false
+        },
+        {
+            "letter": "M",
+            "highlight": false
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "M",
+            "highlight": false
+        },
+        {
+            "letter": "U",
+            "highlight": false
+        },
+        {
+            "letter": "N",
+            "highlight": true
+        },
+        {
+            "letter": "I",
+            "highlight": false
+        },
+        {
+            "letter": "L",
+            "highlight": false
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "CH",
+            "highlight": false
+        },
+        {
+            "letter": "I",
+            "highlight": false
+        },
+        {
+            "letter": "Y",
+            "highlight": false
+        },
+        {
+            "letter": "O",
+            "highlight": true
+        },
+        {
+            "letter": "H",
+            "highlight": false
+        }
+    ],
+    "aboutAuthorSentence": "Hune' sajach ti' yinh hunxa sajach yet Wordle hat xnawitij yuh xin xa huh kosajchi yinh ab'xub'al {{language}} munlanheb'il yuh ya' <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Ilk'anab' hune' sajach b'ay xnawitij <1>código original</1> yet ya' <3>Hannah Park</3> maka chuh hawilnipax hunxa ti' la <5>fork yet ya' Aidan Pine</5> kat hawatx'eniktoj yul hawab'xub'al. ",
+    "aboutDataSentence": "B'et ti' chuh snachah hunq'ahan tzoti' yet hun sajach ti' la <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "Chuh hasajchipax yinh hune' b'ab'el sajach xmunlanhelax ti' la <1>aquí</1>",
+    "languages": {
+        "en": "English",
+        "es": "Español",
+        "sw": "Kiswahili",
+        "jac": "Popti'",
+        "zh": "中文"
+    }
+}
