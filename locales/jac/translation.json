@@ -1,7 +1,7 @@
 {
     "about": "Yib'anhiloj hun sajach ti'",
     "gameName": "No Wordle - {{language}}",
-    "enterKey": "Atoj",
+    "enterKey": "Xyaq'a",
     "deleteKey": "Sultuj",
     "notEnoughLetters": "Mach k'uxanoj tz'ib'",
     "wordNotFound": "Mach hun tzoti' ti'",
@@ -11,11 +11,11 @@
     "instructions": "Chuh hawilwen hawalniloj hun tzoti' ti' yinh {{tries}} el. Lahwi hawilwenoj hun-hun el, chhelmojtoj yelaw hej tz'ib', yuhnhe skolwahoj yalni tawet ta ha' hawekoj mato machoj.",
     "pickYourLanguage": "Saya tzet ab'xub'alil chawoche",
     "correctSpotInstructions": "Hune' B' ti' ayiktoj sxol tzoti'. K'ul hawekoj.",
-    "wrongSpotInstructions": "Ayiktoj N sxol hun tzoti' ti' tonhe machtaj b'et ti' ch'oktoj.",
+    "wrongSpotInstructions": "Ayiktoj N sxol hun tzoti' ti', tonhe machtaj b'et ti' ch'oktoj.",
     "notInWordInstructions": "Machiktoj O sxol hun tzoti' ti'.",
     "guessDistribution": "B'ay tet k'ul xuh hapajtzeni",
-    "statistics": "Hantajxa mach chsajchi",
-    "totalTries": "Hayelxa hel chsajchi anmah",
+    "statistics": "Hantajxa mak chsajchi",
+    "totalTries": "Hayelxa el chsajchi anmah",
     "successRate": "Hayelxa el ch'iq'wahi",
     "currentStreak": "Tzet hawekoj ti'nanh",
     "bestStreak": "B'ay tet sajachil q'a' k'ul x'elikoj",
@@ -89,8 +89,8 @@
             "highlight": false
         }
     ],
-    "aboutAuthorSentence": "Hune' sajach ti' yinh hunxa sajach yet Wordle hat xnawitij yuh xin xa huh kosajchi yinh ab'xub'al {{language}} munlanheb'il yuh ya' <3>{{author}}</3>. ",
-    "aboutCodeSentence": "Ilk'anab' hune' sajach b'ay xnawitij <1>código original</1> yet ya' <3>Hannah Park</3> maka chuh hawilnipax hunxa ti' la <5>fork yet ya' Aidan Pine</5> kat hawatx'eniktoj yul hawab'xub'al. ",
+    "aboutAuthorSentence": "Hune' sajach ti', yinh hunxa kaw b'ab'el sajach yet Wordle xnawitij, yuh xin, xa huh kosajchi yinh ab'xub'al {{language}} munlanheb'il yuh ya' <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Yinh hune' sajach ti' xnawitij <1>código original</1> yet ya' <3>Hannah Park</3> chuh hawilnipax hunxa ti' la <5>fork yet ya' Aidan Pine</5> kat hawatx'eniktoj yul hawab'xub'al. ",
     "aboutDataSentence": "B'et ti' chuh snachah hunq'ahan tzoti' yet hun sajach ti' la <1>{{wordListSource}}</1>. ",
     "aboutOriginalSentence": "Chuh hasajchipax yinh hune' b'ab'el sajach xmunlanhelax ti' la <1>aquí</1>",
     "languages": {
