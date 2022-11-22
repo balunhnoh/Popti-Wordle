@@ -3,7 +3,7 @@
     "gameName": "No Wordle - {{language}}",
     "enterKey": "Xyaq'a",
     "deleteKey": "Sultuj",
-    "notEnoughLetters": "Mach k'uxanoj tz'ib'",
+    "notEnoughLetters": "Mach tz'ajanoj tz'ib'",
     "wordNotFound": "Mach hun tzoti' ti'",
     "solution": "Ha' hun tzoti' ti' la: {{solution}}",
     "gameCopied": "Xax hawaq' copiar hun sajach ti'",
