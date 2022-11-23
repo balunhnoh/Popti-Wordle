@@ -90,9 +90,9 @@
         }
     ],
     "aboutAuthorSentence": "Ay hune' kaw b'ab'el sajach b'ay xnawitij hune' sajach yet Wordle ti', yuh xin, ayxa yinh ab'xub'al {{language}}, munlanheb'il yuh ya' <3>{{author}}</3>. ",
-    "aboutCodeSentence": "Yinh hune' <1>código original</1> ti' x'eltj hune' sajach ti', yet ya' <3>Hannah Park</3>, chuh hawilnipax hunxa ti' la: <5>fork yet ya' Aidan Pine</5>, chuh hawatx'enpax hawet yul hawab'xub'al. ",
+    "aboutCodeSentence": "Yinh hune' munil ti' x'eltoj la: <1>código original</1>, yet ya' <3>Hannah Park</3>, chuh hawilnipax hunxa ti' la: <5>fork yet ya' Aidan Pine</5>, kat hawatx'en hawet yul hawab'xub'al. ",
     "aboutDataSentence": "B'et ti' chuh snachah hunq'ahan tzoti' yet hun sajach ti' hawuh la: <1>{{wordListSource}}</1>. ",
-    "aboutOriginalSentence": "Chuh hasajchipax yinh hune' b'ab'el sajach munlanheb'il b'ey ti' la: <1>aquí</1>",
+    "aboutOriginalSentence": "Chuh hasajchipax yinh hune' kaw b'ab'el sajach munlanheb'il b'ey ti' la: <1>aquí</1>",
     "languages": {
         "en": "English",
         "es": "Español",
