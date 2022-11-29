@@ -81,7 +81,6 @@ export const WORDS = [
 "kaxhah",
 "k'ayal",
 "k'olan",
-"koleh",
 "k'olich",
 "komam",
 "komes",
