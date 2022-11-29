@@ -152,6 +152,7 @@ export const WORDS = [
 "pat'ux",
 "patxo'",
 "pawan",
+"payat",
 "payil",
 "paytze",
 "peb'an",
