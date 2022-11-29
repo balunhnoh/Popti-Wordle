@@ -261,7 +261,16 @@ export const VALIDGUESSES = [
 "yewal",
 "yib'anh",
 "yula'",
-"yumal"
+"yumal",
+"naman",
+"mok'an",
+"malin",
+"mik'in",
+"b'iq'ich",
+"b'aq'ich",
+"pilal",
+"chab'il",
+"chib'il"
 ]
 if (CONFIG.normalization) {
   VALIDGUESSES.forEach(
