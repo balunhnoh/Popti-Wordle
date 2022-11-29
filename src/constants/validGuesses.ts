@@ -10,7 +10,7 @@ export const VALIDGUESSES = [
 "alb'en",
 "alib'e",
 "alkal",
-"anab'e"
+"anab'e",
 "anhlom",
 "anmah",
 "anrey",
