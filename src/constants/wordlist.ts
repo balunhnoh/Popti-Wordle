@@ -270,7 +270,19 @@ export const WORDS = [
 "b'aq'ich",
 "pilal",
 "chab'il",
-"chib'il"
+"SIPIL",
+"TILEN",
+"MUYEN",
+"PEHAN",
+"KOYIN",
+"HAMAN",
+"SIPAN",
+"SUKAL",
+"SULAN",
+"SOHAN",
+"SEWAN",
+"SANHAN",
+"SEPAN"
 ]
 
 if (CONFIG.normalization) {
